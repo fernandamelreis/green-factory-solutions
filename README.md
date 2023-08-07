@@ -14,6 +14,6 @@ Nesse repositório voc~e irá encontrar projetos distintos de Front-End, como:
   
 # 📖 Referência
 
-HTML | CSS | JAVASCRIPT : https://www.w3schools.com/
-BOOTSTRAP: https://getbootstrap.com/
+- HTML | CSS | JAVASCRIPT : https://www.w3schools.com/
+- BOOTSTRAP: https://getbootstrap.com/
 
