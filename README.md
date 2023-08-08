@@ -1,8 +1,8 @@
 # 🌱 Green Factory Solutions 
-Projetos de Front-End desenvolvidos.
+Projetos desenvolvidos dentro da Fábrica de Software.
 
 # ✔ Projetos:
-Nesse repositório você irá encontrar o website da fábrica utilizando templates do Bootstrap com integração das tecnologias HTML, CSS e Javascript.
+Nesse repositório você irá encontrar o website da fábrica utilizando templates do Bootstrap com integração das tecnologias HTML, CSS e Javascript, além disso encontrará informações sobre o projeto da empresa.
 
 # 🔮 Tecnologias:
 - `HTML`:  Componente base da web, no qual significa Linguagem de Marcação de Hipertexto.
