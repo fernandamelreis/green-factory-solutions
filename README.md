@@ -1,10 +1,8 @@
-# 💻 Desenvolvimento Web 
+# 🌱 Grees Factory Solutions 
 Projetos de Front-End desenvolvidos.
 
-# 🎯 Projetos:
-Nesse repositório voc~e irá encontrar projetos distintos de Front-End, como:
-- `Website`: Website desenvolvido de forma introdutória integrando as tecnologias de HTML, CSS, Javascript e Bootstrap;
-- `Portfólio`: Website robusto utilizando templates do Bootstrap com integração das tecnologias HTML, CSS e Javascript.
+# ✔ Projetos:
+Nesse repositório você irá encontrar o website da fábrica utilizando templates do Bootstrap com integração das tecnologias HTML, CSS e Javascript.
 
 # 🔮 Tecnologias:
 - `HTML`:  Componente base da web, no qual significa Linguagem de Marcação de Hipertexto.
